@@ -1,7 +1,6 @@
 # iHearU
 End-to-End Communication Application for Hearing Impaired &amp; Normal Individuals
 
-# iHearU: Bridging Communication Divide
 
 ![iHearU Logo](https://github.com/Mozasbugs/iHearU/assets/103077062/627c7bba-7cb7-4a2d-b75f-613e5a8ddb15)
 
