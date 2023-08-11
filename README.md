@@ -38,8 +38,13 @@ iHearU is a fusion of cutting-edge technologies and creative methodologies:
 
 ## Usage
 1. Launch Unity application.
+   ![1](https://github.com/Mozasbugs/iHearU/assets/103077062/7b0b8303-5363-493a-8fb5-8917ca9234f9)     ![2](https://github.com/Mozasbugs/iHearU/assets/103077062/e5b0ade2-6185-4ad7-a22d-6e67cdc50708)
 2. Use the "Sign to Text" feature to see sign language gestures corresponding to text input.
+
+![3](https://github.com/Mozasbugs/iHearU/assets/103077062/ffec36b4-d6f4-4761-8d1e-d7e35acbcb2d)
 3. Use the "Text to Sign Language" feature to translate ASL gestures into text.
+
+![photo_2023-07-14_20-11-44](https://github.com/Mozasbugs/iHearU/assets/103077062/8268a84b-690a-465b-9eef-f75eecb92157)
 
 ## Contributing
 We welcome and appreciate contributions to iHearU! To learn more, please follow our [Contribution Guidelines](CONTRIBUTING.md).
